@@ -1,0 +1,8 @@
+Added Component: Designator=LM1(PCBComponent_1)
+Added Pin To Net: NetName=+3.3V Pin=LM1-1
+Added Pin To Net: NetName=GND Pin=LM1-2
+Added Pin To Net: NetName=NetJ0_1 Pin=LM1-4
+Added Pin To Net: NetName=NetLM1_3 Pin=LM1-3
+Added Pin To Net: NetName=NetLM1_3 Pin=SW8-3
+Added Net: Name=NetLM1_3
+Added Member To Class: ClassName=Sheet1 Member=Component LM1 LM2596

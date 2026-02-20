@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=NetJ0_1 Pin=J3-1
+Removed Pin From Net: NetName=GND Pin=J3-3
+Removed Pin From Net: NetName=+3.3V Pin=J3-4
+Removed Member From Class: ClassName=Sheet1 Member=J3

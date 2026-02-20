@@ -1,0 +1,2 @@
+../Core/Src/lis3dh_driver.c:4:9:LIS3DH_Init	40	static
+../Core/Src/lis3dh_driver.c:16:6:LIS3DH_ReadRawAcc	48	static

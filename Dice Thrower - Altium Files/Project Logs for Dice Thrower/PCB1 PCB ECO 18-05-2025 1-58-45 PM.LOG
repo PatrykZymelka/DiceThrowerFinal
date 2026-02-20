@@ -1,0 +1,105 @@
+Remove Pin from Net: Unknown Pin: Pin *-2
+Removed Pin From Net: NetName=GND Pin=J?-1
+Removed Pin From Net: NetName=GND Pin=J?-02
+Removed Pin From Net: NetName=GND Pin=J?-19
+Removed Pin From Net: NetName=GND Pin=SW?-2
+Change Component Footprint: Designator=SW? Old Footprint=430476043716 New Footprint=430476043716
+Change Component Footprint: Designator=SW? Old Footprint=430476043716 New Footprint=430476043716
+Change Component Footprint: Designator=SW? Old Footprint=430476043716 New Footprint=430476043716
+Change Component Footprint: Designator=SW? Old Footprint=430476043716 New Footprint=430476043716
+Change Component Footprint: Designator=SW? Old Footprint=430476043716 New Footprint=430476043716
+Change Component Footprint: Designator=SW? Old Footprint=430476043716 New Footprint=430476043716
+Change Component Footprint: Designator=SW? Old Footprint=430476043716 New Footprint=430476043716
+Change Component Footprint: Designator=SW? Old Footprint=430476043716 New Footprint=430476043716
+Change Component Designator: OldDesignator=* NewDesignator=LS2
+Change Component Designator: OldDesignator=J? NewDesignator=J0
+Change Component Designator: OldDesignator=J? NewDesignator=J1
+Change Component Designator: OldDesignator=J? NewDesignator=J2
+Change Component Designator: OldDesignator=LS? NewDesignator=LS1
+Change Component Designator: OldDesignator=SW? NewDesignator=SW0
+Change Component Designator: OldDesignator=SW? NewDesignator=SW1
+Change Component Designator: OldDesignator=SW? NewDesignator=SW2
+Change Component Designator: OldDesignator=SW? NewDesignator=SW3
+Change Component Designator: OldDesignator=SW? NewDesignator=SW4
+Change Component Designator: OldDesignator=SW? NewDesignator=SW5
+Change Component Designator: OldDesignator=SW? NewDesignator=SW6
+Change Component Designator: OldDesignator=SW? NewDesignator=SW7
+Change Component Designator: OldDesignator=SW? NewDesignator=SW8
+Change Component Designator: OldDesignator=U? NewDesignator=U1
+Added Component: Designator=J3(PCBComponent_1)
+Added Pin To Net: NetName=GND Pin=J3-3
+Added Pin To Net: NetName=B3 Pin=LS1-1
+Added Pin To Net: NetName=GND Pin=LS1-2
+Add Pin To Net: Unknown Pin: Pin LS2-3
+Add Pin To Net: Unknown Pin: Pin LS2-5
+Added Pin To Net: NetName=GND Pin=SW0-A1
+Added Pin To Net: NetName=GND Pin=SW1-A1
+Added Pin To Net: NetName=GND Pin=SW2-A1
+Added Pin To Net: NetName=GND Pin=SW3-A1
+Added Pin To Net: NetName=GND Pin=SW4-A1
+Added Pin To Net: NetName=GND Pin=SW5-A1
+Added Pin To Net: NetName=GND Pin=SW6-A1
+Added Pin To Net: NetName=GND Pin=SW7-A1
+Added Pin To Net: NetName=GND Pin=U1-1
+Added Pin To Net: NetName=B6 Pin=U1-3
+Added Pin To Net: NetName=B7 Pin=U1-4
+Change Net Name : Old Net Name=NetJ?_2 New Net Name=NetJ0_2
+Added Pin To Net: NetName=+3.3V Pin=J3-4
+Added Pin To Net: NetName=+3.3V Pin=U1-2
+Added Net: Name=+3.3V
+Added Pin To Net: NetName=A0 Pin=J1-15
+Added Pin To Net: NetName=A0 Pin=SW0-B1
+Added Net: Name=A0
+Added Pin To Net: NetName=A1 Pin=J1-14
+Added Pin To Net: NetName=A1 Pin=SW1-B1
+Added Net: Name=A1
+Added Pin To Net: NetName=A2 Pin=J1-13
+Added Pin To Net: NetName=A2 Pin=SW2-B1
+Added Net: Name=A2
+Added Pin To Net: NetName=A3 Pin=J1-12
+Added Pin To Net: NetName=A3 Pin=SW3-B1
+Added Net: Name=A3
+Added Pin To Net: NetName=A4 Pin=J1-11
+Added Pin To Net: NetName=A4 Pin=SW4-B1
+Added Net: Name=A4
+Added Pin To Net: NetName=A5 Pin=J1-10
+Added Pin To Net: NetName=A5 Pin=SW5-B1
+Added Net: Name=A5
+Added Pin To Net: NetName=A6 Pin=J1-09
+Added Pin To Net: NetName=A6 Pin=SW6-B1
+Added Net: Name=A6
+Added Pin To Net: NetName=A7 Pin=J1-08
+Added Pin To Net: NetName=A7 Pin=SW7-B1
+Added Net: Name=A7
+Added Pin To Net: NetName=B0 Pin=J1-07
+Added Net: Name=B0
+Added Pin To Net: NetName=B1 Pin=J1-06
+Added Net: Name=B1
+Added Pin To Net: NetName=B2 Pin=J1-05
+Added Net: Name=B2
+Added Pin To Net: NetName=B10 Pin=J1-04
+Added Net: Name=B10
+Added Pin To Net: NetName=B12 Pin=J2-01
+Added Net: Name=B12
+Added Pin To Net: NetName=B13 Pin=J2-02
+Added Net: Name=B13
+Added Pin To Net: NetName=B14 Pin=J2-03
+Added Net: Name=B14
+Added Pin To Net: NetName=NetJ0_1 Pin=J0-1
+Added Pin To Net: NetName=NetJ0_1 Pin=J3-1
+Added Pin To Net: NetName=NetJ0_1 Pin=SW8-2
+Added Net: Name=NetJ0_1
+Added Pin To Net: NetName=NetJ3_2 Pin=J3-2
+Added Pin To Net: NetName=NetJ3_2 Pin=SW8-3
+Added Net: Name=NetJ3_2
+Added Member To Class: ClassName=Sheet1 Member=Component J0 1043P
+Added Member To Class: ClassName=Sheet1 Member=Component J2 TS-120-T-AA
+Added Member To Class: ClassName=Sheet1 Member=Component J3 LM2596
+Added Member To Class: ClassName=Sheet1 Member=Component SW0 430476043716
+Added Member To Class: ClassName=Sheet1 Member=Component SW2 430476043716
+Added Member To Class: ClassName=Sheet1 Member=Component SW3 430476043716
+Added Member To Class: ClassName=Sheet1 Member=Component SW4 430476043716
+Added Member To Class: ClassName=Sheet1 Member=Component SW5 430476043716
+Added Member To Class: ClassName=Sheet1 Member=Component SW6 430476043716
+Added Member To Class: ClassName=Sheet1 Member=Component SW7 430476043716
+Added Member To Class: ClassName=Sheet1 Member=Component SW8 CSS-1210TB

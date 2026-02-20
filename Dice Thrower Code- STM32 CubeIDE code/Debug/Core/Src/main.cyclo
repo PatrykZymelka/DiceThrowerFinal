@@ -1,0 +1,15 @@
+../Core/Src/main.c:73:10:RandomNumber	1
+../Core/Src/main.c:96:6:ClearBuffer	2
+../Core/Src/main.c:103:6:HomeScreen	1
+../Core/Src/main.c:148:6:Display	29
+../Core/Src/main.c:258:6:Buzz	3
+../Core/Src/main.c:276:6:DisplayResult	8
+../Core/Src/main.c:308:6:RollDice	10
+../Core/Src/main.c:332:5:main	9
+../Core/Src/main.c:435:6:SystemClock_Config	3
+../Core/Src/main.c:482:13:MX_I2C1_Init	2
+../Core/Src/main.c:516:13:MX_I2C2_Init	2
+../Core/Src/main.c:550:13:MX_TIM2_Init	6
+../Core/Src/main.c:609:13:MX_USART1_UART_Init	2
+../Core/Src/main.c:642:13:MX_GPIO_Init	1
+../Core/Src/main.c:681:6:Error_Handler	1

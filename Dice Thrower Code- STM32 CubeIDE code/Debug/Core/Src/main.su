@@ -1,0 +1,15 @@
+../Core/Src/main.c:73:10:RandomNumber	16	static
+../Core/Src/main.c:96:6:ClearBuffer	24	static
+../Core/Src/main.c:103:6:HomeScreen	48	static
+../Core/Src/main.c:148:6:Display	64	static
+../Core/Src/main.c:258:6:Buzz	16	static
+../Core/Src/main.c:276:6:DisplayResult	8	static
+../Core/Src/main.c:308:6:RollDice	8	static
+../Core/Src/main.c:332:5:main	40	static
+../Core/Src/main.c:435:6:SystemClock_Config	88	static
+../Core/Src/main.c:482:13:MX_I2C1_Init	8	static
+../Core/Src/main.c:516:13:MX_I2C2_Init	8	static
+../Core/Src/main.c:550:13:MX_TIM2_Init	64	static
+../Core/Src/main.c:609:13:MX_USART1_UART_Init	8	static
+../Core/Src/main.c:642:13:MX_GPIO_Init	40	static
+../Core/Src/main.c:681:6:Error_Handler	4	static,ignoring_inline_asm
